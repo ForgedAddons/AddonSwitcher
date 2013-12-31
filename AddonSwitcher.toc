@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: AddonSwitcher
+## Notes: Addon switcher to make your life easier!
+## Author: Drauer
+## Version: 40000.2
+## SavedVariables: asDB
+## DefaultState: Enabled
+## OptionalDependencies: Ampere
+## LoadOnDemand: 0
+
+AddonSwitcher.lua
+pluginAmpere.lua
